@@ -29,7 +29,6 @@ IBOutlet, IBAction의 역할은 StoryBoard와의 연결고리를 담당한다. �
 <br>
 
 ---
-<br>
 
 ### 🚨주의
 Storyboard와의 연결을 끊을 때는 아래 사진에서 Referencing Outlets을 끊어준다.  
