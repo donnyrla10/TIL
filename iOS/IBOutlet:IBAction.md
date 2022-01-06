@@ -1,3 +1,4 @@
+
 IBOutlet, IBAction의 역할은 StoryBoard와의 연결고리를 담당한다. 변수나 함수를 정의할 때, @IBOutlet, @IBAction 키워드를 붙여서 Storyboard에서 컴포넌트와 연결이 가능하다.   
 `IB`는 `Interface Builder`로, `@IB`로 시작하면 `Interface builder`와 관련된 변수 또는 함수를 의미한다. 
 
