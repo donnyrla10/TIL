@@ -93,7 +93,7 @@ public func UIApplicationMain(_
 ---
 
 
-## 앱 전면 실행
+## 앱 실행 (Foreground, Background)
 
 앱 시작: 시스템은 process, main thread, main 함수 생성
 main에서 UIKit Framework를 즉시 다룰수 있고, 앱 초기화 && 실행 준비
